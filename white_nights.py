@@ -25,9 +25,11 @@ def main(message):
 
 
 photos = [
-    ('./imagine/11.jpg', '450 ₽'),
-    ('./imagine/2.jpg', '600 ₽'),
-    ('./imagine/3.jpg', '999₽'),
+    ('./imagine/11.jpg', '500 ₽'),
+    ('./imagine/12.jpg', '600 ₽'),
+    ('./imagine/13.jpg', '450 ₽'),
+    ('./imagine/14.jpg', '450 ₽'),
+    ('./imagine/16.jpg', '999₽'),
     ('./imagine/4.jpg', '850 ₽'),
 ]
 
