@@ -25,10 +25,10 @@ def main(message):
 
 
 photos = [
-    ('./imagine/1.jpg', '850 ₽ '),
-    ('./imagine/2.jpg', '1100 ₽'),
-    ('./imagine/3.jpg', '2000 ₽'),
-    ('./imagine/4.jpg', '1500 ₽'),
+    ('./imagine/11.jpg', '450 ₽'),
+    ('./imagine/2.jpg', '600 ₽'),
+    ('./imagine/3.jpg', '999₽'),
+    ('./imagine/4.jpg', '850 ₽'),
 ]
 
 current_photo_index = 0
